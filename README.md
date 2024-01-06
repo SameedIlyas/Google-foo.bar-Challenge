@@ -2,9 +2,9 @@
 This repository documents my journey through Google's "secret" Challenge.
 
 # Challenges
+### Journal
+[Journal](challenges/journal.md)
 
-Journal
+### Level 1
 
-## Level 1
-
-Braille Translation
+[Braille Translation](challenges/braille-translation.md)
