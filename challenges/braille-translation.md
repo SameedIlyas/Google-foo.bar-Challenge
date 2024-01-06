@@ -20,7 +20,7 @@ Write a function solution(plaintext) that takes a string parameter and returns a
 
 ## Languages
 
-To provide a Python solution, edit solution.py ([solution.py](solutions/Level1/braille-translation.py))
+To provide a Python solution, edit solution.py ([solution.py](https://github.com/SameedIlyas/Google-foo.bar-Challenge/blob/main/solutions/Level1/braille-translation.py))
 
 To provide a Java solution, edit Solution.java
 
