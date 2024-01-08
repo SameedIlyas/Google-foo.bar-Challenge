@@ -11,3 +11,8 @@ This repository documents my journey through Google's "secret" Challenge.
 ### Level 1
 
 [Braille Translation](challenges/braille-translation.md)
+
+
+### Level 2
+
+[Elevator Maintenance](challenges/elevator-maintenance.md)
