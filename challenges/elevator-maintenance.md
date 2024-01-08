@@ -10,7 +10,7 @@ For example, given the list l as ["1.1.2", "1.0", "1.3.3", "1.0.12", "1.0.2"], t
 Languages
 =========
 
-To provide a Python solution, edit solution.py 
+To provide a Python solution, edit solution.py ([solution.py](https://github.com/SameedIlyas/Google-foo.bar-Challenge/blob/main/solutions/Level2/elevator-maintenance.py))
 
 To provide a Java solution, edit Solution.java
 
