@@ -7,8 +7,9 @@ You survived a week in Commander Lambda's organization, and you even managed to 
 ## Level 2
 The latest gossip in the henchman breakroom is that "LAMBCHOP" stands for "Lambda's Anti-Matter Biofuel Collision Hadron Oxidating Potentiator". You're pretty sure it runs on diesel, not biofuel, but you can at least give the commander credit for trying.
 
-The perks are definitely better as a Henchman than as a Minion. You're even allowed to sleep lying down!
+The perks are definitely better as a Henchman than as a Minion. You're even allowed to sleep lying down!  
 
-## Level 3
+Awesome! Commander Lambda was so impressed by your efforts that you've been promoted to personal assistant. You'll be helping the Commander directly, which means you'll have access to all of Lambda's files -- including the ones on the LAMBCHOP doomsday device. This is the chance you've been waiting for. Can you use your new access to finally topple Commander Lambda's evil empire?  
+
 
 
