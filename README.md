@@ -15,4 +15,8 @@ This repository documents my journey through Google's "secret" Challenge.
 
 ### Level 2
 
-[Elevator Maintenance](challenges/elevator-maintenance.md)
+[Elevator Maintenance](challenges/elevator-maintenance.md)  
+
+[Gearing up for destruction](https://github.com/SameedIlyas/Google-foo.bar-Challenge/blob/main/challenges/gearing-up-for-destruction.md)  
+
+
