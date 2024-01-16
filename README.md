@@ -21,6 +21,10 @@ This repository documents my journey through Google's "secret" Challenge.
 
 ### Level 3
 
-[The Grandest staircase of them all](challenges/the-grandest-staircase-of-them-all.md)
+[The Grandest staircase of them all](challenges/the-grandest-staircase-of-them-all.md)  
+
+[Prepare the bunnies' escape](challenges/prepare-the-bunnies-escape.md)  
+
+
 
 
