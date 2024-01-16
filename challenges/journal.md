@@ -14,3 +14,5 @@ Awesome! Commander Lambda was so impressed by your efforts that you've been prom
 ## Level 3
 Commander Lambda has six suits, three dress uniforms, four casual outfits, and one Dress-Uniform-For-Important-Speeches-Only. You know this because you've already had to take all of them to the dry cleaner's.  Twice!  
 
+There are a lot of difficult things about being undercover as Commander Lambda's personal assistant, but you have to say, the personal spa and private hot cocoa bar are pretty awesome.  
+
