@@ -17,7 +17,7 @@ The height and width of the map can be from 2 to 20.
 Moves can only be made in cardinal directions; no diagonal moves are allowed.
 
 ## Languages
-To provide a Python solution, edit solution.py  
+To provide a Python solution, edit solution.py ([solution.py](https://github.com/SameedIlyas/Google-foo.bar-Challenge/blob/main/solutions/Level3/prepare-the-bunnies-escape.py))  
 To provide a Java solution, edit Solution.java  
 
 ## Test cases 
