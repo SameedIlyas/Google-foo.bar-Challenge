@@ -35,7 +35,7 @@ Write a function called solution(n) that takes a positive integer n and returns 
 
 ## Languages
 To provide a Java solution, edit Solution.java  
-To provide a Python solution, edit solution.py  
+To provide a Python solution, edit solution.py ([solution.py](https://github.com/SameedIlyas/Google-foo.bar-Challenge/blob/main/solutions/Level3/the-grandest-staircase-of-them-all.py))   
 
 ## Test cases
 Your code should pass the following test cases. Note that it may also be run against hidden test cases not shown here.  
