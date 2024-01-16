@@ -19,4 +19,8 @@ This repository documents my journey through Google's "secret" Challenge.
 
 [Gearing up for destruction](https://github.com/SameedIlyas/Google-foo.bar-Challenge/blob/main/challenges/gearing-up-for-destruction.md)  
 
+### Level 3
+
+[The Grandest staircase of them all](challenges/the-grandest-staircase-of-them-all.md)
+
 
